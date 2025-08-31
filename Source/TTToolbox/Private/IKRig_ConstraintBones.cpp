@@ -19,6 +19,7 @@
 // THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #include "IKRig_ConstraintBones.h"
+#include "Rig/IKRigSkeleton.h"
 
 #define LOCTEXT_NAMESPACE "UIKRig_BoneConstrainer"
 
